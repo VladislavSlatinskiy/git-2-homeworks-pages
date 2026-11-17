@@ -4,3 +4,5 @@ plugins:
 
 title: "Домашнее задание"
 description: "О себе"
+titles_from_headings:
+  enabled: false
